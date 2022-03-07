@@ -1,0 +1,48 @@
+.slider_Text {
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  height: 177px;
+  justify-content: center;
+  
+}
+
+.slider_Text > h1 {
+  font-family: Pacifico;
+  font-style: Regular;
+  font-size: 26px;
+  line-height: 105px;
+  line-height: 100%;
+  color: #10504F;
+}
+
+.slider_Text > p {
+  font-family: Lato;
+  font-style: Regular;
+  font-size: 14px;
+  line-height: 31px;
+  line-height: 100%;
+  margin-top: 10px;
+  text-align: left;
+  color: #10504F;
+}
+
+.slide_button {
+  width: 129px;
+  height: 43px;
+  margin-top: 25px;
+  font-family: Lato;
+  font-style: Bold;
+  font-size: 14px;
+  line-height: 17px;
+  line-height: 100%;
+  background-color: #000;
+  color: #fff;
+  border: none;
+}
+
+@media only screen and (max-width: 800px) {
+    .slider_Text {
+        display: flex;
+    }
+}

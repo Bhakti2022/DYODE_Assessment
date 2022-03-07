@@ -1,0 +1,29 @@
+.newArrival {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin: 20px 0 60px 0;
+}
+
+.newArrival > h1 {
+  font-family: Pacifico;
+  font-style: regular;
+  font-weight: normal;
+  font-size: 60px;
+  line-height: 105px;
+  line-height: 100%;
+  margin-bottom: 30px;
+  padding: 0;
+}
+
+.newArrival_items {
+  display: flex;
+  width: 100%;
+  overflow: hidden;
+}
+
+@media only screen and (max-width: 800px) {
+  .newArrival > h1 {
+    font-size: 26px;
+  }
+}

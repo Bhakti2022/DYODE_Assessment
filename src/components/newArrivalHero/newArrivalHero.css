@@ -1,0 +1,52 @@
+.newArrivalHero {
+    display: flex;
+    flex-direction: column;
+    /* width: 24%; */
+}
+
+.newArrivalHero > img {
+  width: 90%;
+}
+
+.newArrival_text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.newArrival_text > h6 {
+  font-family: Lato;
+  font-style: Regular;
+  font-size: 22px;
+  line-height: 26px;
+  line-height: 100%;
+  color: #000;
+  margin-top: 22px;
+}
+
+.newArrival_text > p {
+  font-family: Lato;
+  font-style: Light;
+  font-size: 16px;
+  line-height: 19px;
+  line-height: 100%;
+  color: #000;
+  margin-top: 7px;
+}
+
+.newArrival_text > h5 {
+  font-family: Pacifico;
+  font-style: Regular;
+  font-size: 26px;
+  line-height: 46px;
+  line-height: 100%;
+  color: #10504f;
+  margin-top: 10px;
+}
+
+.newArrival_text > h5 > span {
+    font-size: 18px;
+}
+
+

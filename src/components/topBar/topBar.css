@@ -1,0 +1,19 @@
+.topBar {
+  display: flex;
+  width: inherit;
+  height: 58px;
+  background-color: #000000;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+
+.topBar > p {
+  font-family: Lato;
+  font-style: Medium;
+  font-size: 14px;
+  line-height: 17px;
+  line-height: 100%;
+  letter-spacing: 10%;
+  color: #fff;
+}
