@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DYODE_Assessment/static/css/main.9c972466.css",
+    "main.js": "/DYODE_Assessment/static/js/main.623514e5.js",
+    "static/js/787.d78ac8d6.chunk.js": "/DYODE_Assessment/static/js/787.d78ac8d6.chunk.js",
+    "index.html": "/DYODE_Assessment/index.html",
+    "main.9c972466.css.map": "/DYODE_Assessment/static/css/main.9c972466.css.map",
+    "main.623514e5.js.map": "/DYODE_Assessment/static/js/main.623514e5.js.map",
+    "787.d78ac8d6.chunk.js.map": "/DYODE_Assessment/static/js/787.d78ac8d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c972466.css",
+    "static/js/main.623514e5.js"
+  ]
+}
